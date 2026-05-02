@@ -23,8 +23,9 @@ button {
 .titulo-principal {
     font-size: 100px;
     padding: 0px;
-    font-family: "Sofia", sans-serif;
-    text-shadow: 3px 3px 3px #e41313;
+    font-family: 'Abril Fatface', serif;
+    font-size: 70px;
+    
 }
 
 /* Contenedor de las 4 tarjetas */
