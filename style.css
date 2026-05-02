@@ -23,9 +23,9 @@ button {
 .titulo-principal {
     font-size: 100px;
     padding: 0px;
-    font-family: 'Courier New', monospace;
+    font-family: "Sofia", sans-serif;
+    text-shadow: 3px 3px 3px #e41313;
 }
-
 
 /* Contenedor de las 4 tarjetas */
 .galeria-grid {
