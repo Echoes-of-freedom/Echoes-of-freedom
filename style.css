@@ -1,5 +1,6 @@
 body {
   background-color: rgba(4, 115, 179, 0.767);
+   font-family: 'Courier New', monospace;
 }
 
 .contenedor{
@@ -9,9 +10,7 @@ body {
 .textos {
     align-self: center;
     padding: 20px;
-    font-family: "Orbitron", sans-serif;
 }
-
 
 div {
   margin-left: 18px;
